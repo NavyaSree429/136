@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bapatla enginnering college
+=======
+navya sree
+>>>>>>> 27c3ce6 (commit)
